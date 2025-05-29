@@ -26,7 +26,6 @@ The Fitness Quiz Intelligence API is a Python-based backend system designed to i
 
 ```
 .env
-.env.example
 lambda_function.py
 test_lambda_locally.py
 dashboard.py
@@ -39,7 +38,6 @@ README.md
 *   `dashboard.py`: The Streamlit application for visualizing data from the Supabase `chatbot_runs` table.
 *   `requirements.txt`: Lists all Python dependencies for the project.
 *   `.env`: (To be created by user) Stores sensitive API keys and configuration variables.
-*   `.env.example`: (This file) Provides a template for the required environment variables.
 *   `README.md`: This file.
 
 ## Key Technologies Used
