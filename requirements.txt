@@ -1,0 +1,12 @@
+openai
+pinecone
+python-dotenv
+langsmith
+langchain
+langchain-openai
+langchain-pinecone
+httpx
+streamlit
+pandas
+plotly
+supabase
